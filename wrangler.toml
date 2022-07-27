@@ -1,0 +1,6 @@
+name = "xbox-series-x-stock-monitor"
+main = "src/index.ts"
+compatibility_date = "2022-07-26"
+
+[triggers]
+crons = ["*/15 * * * *"]
